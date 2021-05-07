@@ -92,7 +92,7 @@ export default {
     },
   },
 
-  // Using mounted hook to fetch and initialize orders
+  // Using created hook to fetch and initialize orders
   created : function () {
     fetch("orderItems.json")
       .then((response) => response.json())
