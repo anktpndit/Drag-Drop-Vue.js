@@ -1,7 +1,12 @@
 # vue-challenge
 
 ## Project setup
-Clone the project and cd into Drag-Drop-Vue.js directory. Then, run the following command to install all packages and dependencies.
+Clone the project and cd into Drag-Drop-Vue.js directory. 
+```
+git clone https://github.com/anktpndit/Drag-Drop-Vue.js.git
+cd Drag-Drop-Vue.js
+```
+Then, run the following command to install all packages and dependencies.
 ```
 npm install
 ```
