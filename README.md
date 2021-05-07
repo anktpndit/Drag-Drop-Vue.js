@@ -1,4 +1,4 @@
-# vue-challenge
+# Drag&Drop Vue.js
 
 ## Project setup
 Clone the project and cd into Drag-Drop-Vue.js directory. 
